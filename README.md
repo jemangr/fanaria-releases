@@ -15,8 +15,8 @@
 <p align="center"><sub>Android 7 ή νεότερο · Ελληνικά & English · χωρίς λογαριασμό · <a href="https://github.com/jemangr/fanaria-releases/releases">όλες οι εκδόσεις / all versions</a></sub></p>
 
 <p align="center">
+  <img src="docs/screenshots/0-menu.jpg" width="24%" alt="Αρχική οθόνη">
   <img src="docs/screenshots/1-play.jpg" width="24%" alt="Ταξινομείς φανάρια ανά χρώμα">
-  <img src="docs/screenshots/5-daily.jpg" width="24%" alt="Φανάρι της ημέρας">
   <img src="docs/screenshots/4-win.jpg" width="24%" alt="Αστέρια σε κάθε επίπεδο">
   <img src="docs/screenshots/6-xmas-lake.jpg" width="24%" alt="Χριστουγεννιάτικο θέμα στη λίμνη">
 </p>
