@@ -17,26 +17,33 @@
 <p align="center">
   <img src="docs/screenshots/0-menu.jpg" width="24%" alt="Αρχική οθόνη">
   <img src="docs/screenshots/1-play.jpg" width="24%" alt="Ταξινομείς φανάρια ανά χρώμα">
-  <img src="docs/screenshots/4-win.jpg" width="24%" alt="Αστέρια σε κάθε επίπεδο">
-  <img src="docs/screenshots/6-xmas-lake.jpg" width="24%" alt="Χριστουγεννιάτικο θέμα στη λίμνη">
+  <img src="docs/screenshots/3-village.jpg" width="24%" alt="Στόλισε το χωριό σου">
+  <img src="docs/screenshots/4-win.jpg" width="24%" alt="Αστέρια και φώτα σε κάθε επίπεδο">
 </p>
 
 ## Στα ελληνικά
 
 Χάρτινα φανάρια αιωρούνται σε στήλες ζεστού αέρα. Τα ταξινομείς ώστε κάθε στήλη να έχει ένα χρώμα, και τότε τα φανάρια πετούν στον νυχτερινό ουρανό και ανάβουν τα παράθυρα του χωριού από κάτω.
 
-- **Ήρεμο αλλά δύσκολο:** χωρίς χρονόμετρο. Η δυσκολία έρχεται από τη σκέψη, με κρυφά φανάρια «?» που δείχνουν το χρώμα τους μόνο όταν βρεθούν στην κορυφή.
+- **Ήρεμο αλλά δύσκολο:** χωρίς χρονόμετρο. Κρυφά φανάρια «?», παγωμένες στήλες που λιώνουν όσο ολοκληρώνεις στήλες, και ψηλές στήλες των 5.
 - **Κάθε επίπεδο λύνεται:** τα επίπεδα φτιάχνονται αυτόματα και ελέγχονται πριν τα δεις.
-- **Φανάρι της ημέρας:** ένα νέο παζλ κάθε μέρα, ίδιο για όλους, με σερί ημερών 🔥.
-- **Αστέρια:** λύσε με λίγες κινήσεις για ⭐⭐⭐.
-- **Τοπία για συλλογή:** χωριό, λίμνη, βουνά και θάλασσα με φάρο ξεκλειδώνονται καθώς προχωράς.
-- **Εποχικά θέματα:** χιόνι και λαμπάκια τα Χριστούγεννα, κομφετί στις Απόκριες.
-- **Βοήθεια 💡:** δείχνει την επόμενη σωστή κίνηση. Αν κολλήσεις, το παιχνίδι το καταλαβαίνει και σου προτείνει λύση.
-- **Εύκολη αρχή:** σύντομος οδηγός και απεριόριστες αναιρέσεις στα πρώτα 10 επίπεδα.
-- **Λειτουργία ύπνου:** από την ώρα που διαλέγεις, ζεστότερα χρώματα και πιο απαλός ήχος. Προαιρετική βραδινή υπενθύμιση.
-- **Απαλή μουσική και ήχοι**, δόνηση, Ελληνικά και English.
+- **Αστέρια με δίκαιο στόχο** και **χάρτης επιπέδων** για να ξαναπαίξεις όποιο θέλεις για τα 3 αστέρια.
+- **Φανάρι της βραδιάς:** ένα νέο παζλ κάθε βράδυ, ίδιο για όλους, με σερί 🔥, ημερολόγιο για τις βραδιές που έχασες και πάγωμα σερί.
+- **Το χωριό σου:** κερδίζεις φώτα και το στολίζεις με γιρλάντες, ανεμόμυλο, ξωκλήσι, πυγολαμπίδες, ουράνια φανάρια. Διαλέγεις και σχήμα φαναριών.
+- **7 τοπία:** χωριό, λίμνη, βουνά, θάλασσα, δάσος, χιονισμένο χωριό, νησί.
+- **Επιτεύγματα** και **δώρο κάθε μέρα**.
+- **Εποχιακά θέματα:** Χριστούγεννα, Απόκριες, Πάσχα, καλοκαίρι, Halloween.
+- **Σύμβολα στα φανάρια** για αχρωματοψία.
+- **Λειτουργία ύπνου**, απαλή μουσική και ήχοι της φύσης που αλλάζουν με το τοπίο. Προαιρετική βραδινή υπενθύμιση.
 - **Ενημερώσεις:** η εφαρμογή ελέγχει μόνη της κάθε 6 ώρες για νέα έκδοση.
-- **Δωρεάν**, με διαφημίσεις και προαιρετικές διαφημίσεις για βοήθεια, αναίρεση ή επιπλέον στήλη.
+- **Δωρεάν**, με διαφημίσεις και προαιρετικές διαφημίσεις για βοήθεια.
+
+<p align="center">
+  <img src="docs/screenshots/2-frozen.jpg" width="24%" alt="Παγωμένη στήλη">
+  <img src="docs/screenshots/5-nights.jpg" width="24%" alt="Οι βραδιές">
+  <img src="docs/screenshots/6-levels.jpg" width="24%" alt="Χάρτης επιπέδων">
+  <img src="docs/screenshots/7-xmas-snow.jpg" width="24%" alt="Χριστούγεννα στο χιονισμένο χωριό">
+</p>
 
 ### Εγκατάσταση
 1. Πάτα **Download APK** από το κινητό σου.
@@ -47,24 +54,24 @@
 
 Paper lanterns float in columns of warm air. Sort them so each column holds one color, and they drift up into the night sky while the village below lights up.
 
-- **Calm, not easy:** no timers. Hidden "?" lanterns show their color only when they reach the top.
+- **Calm, not easy:** no timers. Hidden "?" lanterns, frozen tubes that thaw as you complete columns, and tall tubes of 5.
 - **Every level is solvable:** levels are generated and checked before you see them.
-- **Daily lantern:** a new puzzle every day, the same for everyone, with a 🔥 streak.
-- **Stars:** solve in few moves for ⭐⭐⭐.
-- **Landscapes to collect:** village, lake, mountains and a seaside lighthouse unlock as you play.
-- **Seasonal themes:** snow and string lights at Christmas, confetti at Carnival.
-- **Hints 💡:** shows the next right move. If you get stuck, the game notices and offers a way out.
-- **Gentle start:** a short tutorial and unlimited undo for the first 10 levels.
-- **Sleep mode:** from the hour you choose, warmer colors and softer sound. Optional evening reminder.
-- **Soft music and sounds**, vibration, Greek and English.
+- **Fair stars** and a **level map** to replay any level for 3 stars.
+- **Tonight's lantern:** a new puzzle every night, the same for everyone, with a 🔥 streak, a calendar for missed nights and streak freezes.
+- **Your village:** earn lights and decorate it with garlands, a windmill, a chapel, fireflies and sky lanterns. Pick a lantern style too.
+- **7 landscapes:** village, lake, mountains, sea, forest, snowy village, island.
+- **Trophies** and a **daily gift**.
+- **Seasonal themes:** Christmas, Carnival, Easter, summer, Halloween.
+- **Symbols on lanterns** for color blindness.
+- **Sleep mode**, gentle music and nature sounds that change with the landscape. Optional evening reminder.
 - **Updates:** the app checks for a new version every 6 hours.
-- **Free**, with ads, plus optional ads for a hint, an undo or an extra column.
+- **Free**, with ads, plus optional ads for help.
 
 <p align="center">
-  <img src="docs/screenshots/7-carnival-sea.jpg" width="24%" alt="Carnival theme by the sea">
-  <img src="docs/screenshots/9-collection.jpg" width="24%" alt="Landscape collection">
-  <img src="docs/screenshots/3-hint.jpg" width="24%" alt="Hint">
   <img src="docs/screenshots/12-en.jpg" width="24%" alt="Lanterns in English">
+  <img src="docs/screenshots/13-en-village.jpg" width="24%" alt="My village">
+  <img src="docs/screenshots/8-trophies.jpg" width="24%" alt="Trophies">
+  <img src="docs/screenshots/9-symbols.jpg" width="24%" alt="Color-blind symbols">
 </p>
 
 ## Περισσότερες εφαρμογές · More apps
